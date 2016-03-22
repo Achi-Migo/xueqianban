@@ -75,6 +75,9 @@
   spring.fn.getDate = function(time) {
     return (new Date(time) + '').split(' ').slice(1, 4).join(' ')
   }
+  spring.fn.getDateTime = function(time) {
+    return (new Date(time) + '').split(' ').slice(1, 5).join(' ')
+  }
 
   marked.setOptions({
     highlight: function(code) {

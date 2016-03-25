@@ -28,6 +28,15 @@ Powered by [Spring](https://github.com/zhaoda/spring) 并增加了显示评论�
 * Q&A - 工作中遇到的问题大家一起来解决
 * 博客 - 推荐大家都开始写博客
 
+## 班集体
+
+* 智云时代
+  - [Monine](https://github.com/Monine)
+  - [liuchuanfeng1](https://github.com/liuchuanfeng1) [:bouquet:](http://www.emoji-cheat-sheet.com/)
+  - [meiyangyangtm](https://github.com/meiyangyangtm)
+  - [yx]()
+  - [Sun](https://github.com/ufologist)
+
 ## 如何分享
 
 将这里看作是一个多人协作的博客平台, 将 Issues 看作一篇文章即可.

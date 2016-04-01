@@ -34,7 +34,7 @@ Powered by [Spring](https://github.com/zhaoda/spring) 并增加了显示评论�
   - [Monine](https://github.com/Monine)
   - [liuchuanfeng1](https://github.com/liuchuanfeng1) [:bouquet:](http://www.emoji-cheat-sheet.com/)
   - [meiyangyangtm](https://github.com/meiyangyangtm)
-  - [yx]()
+  - [2583256](https://github.com/2583256)
   - [Sun](https://github.com/ufologist)
 
 ## 如何分享

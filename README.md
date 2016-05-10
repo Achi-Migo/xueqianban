@@ -31,11 +31,13 @@ Powered by [Spring](https://github.com/zhaoda/spring) 并增加了显示评论�
 ## 班集体
 
 * 智云时代
-  - [Monine](https://github.com/Monine)
-  - [liuchuanfeng1](https://github.com/liuchuanfeng1) [:bouquet:](http://www.emoji-cheat-sheet.com/)
-  - [meiyangyangtm](https://github.com/meiyangyangtm)
-  - [2583256](https://github.com/2583256)
   - [Sun](https://github.com/ufologist)
+  - [liuchuanfeng1](https://github.com/liuchuanfeng1) [:bouquet:](http://www.emoji-cheat-sheet.com/)
+  - [Monine](https://github.com/Monine)
+  - [meiyangyangtm](https://github.com/meiyangyangtm)
+  - [liangmiao930617](https://github.com/liangmiao930617)
+  - [px0078](https://github.com/px0078)
+  - [2583256](https://github.com/2583256)
 
 ## 如何分享
 

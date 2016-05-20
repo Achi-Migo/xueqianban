@@ -37,6 +37,7 @@ Powered by [Spring](https://github.com/zhaoda/spring) 并增加了显示评论�
   - [meiyangyangtm](https://github.com/meiyangyangtm)
   - [liangmiao930617](https://github.com/liangmiao930617)
   - [px0078](https://github.com/px0078)
+  - [thomastangweixin](https://github.com/tangweixin)
   - [2583256](https://github.com/2583256)
 
 ## 如何分享

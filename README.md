@@ -32,7 +32,7 @@ Powered by [Spring](https://github.com/zhaoda/spring) 并增加了显示评论�
 
 * 智云时代
   - [Sun](https://github.com/ufologist "sj")
-  - [liuchuanfeng1](https://github.com/liuchuanfeng1) [:bouquet:](http://www.emoji-cheat-sheet.com/ "gx")
+  - [liuchuanfeng1](https://github.com/liuchuanfeng1 "gx") [:bouquet:](http://www.emoji-cheat-sheet.com/)
   - [Monine](https://github.com/Monine "zx")
   - [meiyangyangtm](https://github.com/meiyangyangtm "tm")
   - [liangmiao930617](https://github.com/liangmiao930617 "lm")

@@ -31,14 +31,14 @@ Powered by [Spring](https://github.com/zhaoda/spring) 并增加了显示评论�
 ## 班集体
 
 * 智云时代
-  - [Sun](https://github.com/ufologist)
-  - [liuchuanfeng1](https://github.com/liuchuanfeng1) [:bouquet:](http://www.emoji-cheat-sheet.com/)
-  - [Monine](https://github.com/Monine)
-  - [meiyangyangtm](https://github.com/meiyangyangtm)
-  - [liangmiao930617](https://github.com/liangmiao930617)
-  - [px0078](https://github.com/px0078)
-  - [thomastangweixin](https://github.com/tangweixin)
-  - [2583256](https://github.com/2583256)
+  - [Sun](https://github.com/ufologist "sj")
+  - [liuchuanfeng1](https://github.com/liuchuanfeng1) [:bouquet:](http://www.emoji-cheat-sheet.com/ "gx")
+  - [Monine](https://github.com/Monine "zx")
+  - [meiyangyangtm](https://github.com/meiyangyangtm "tm")
+  - [liangmiao930617](https://github.com/liangmiao930617 "lm")
+  - [px0078](https://github.com/px0078 "px")
+  - [thomastangweixin](https://github.com/tangweixin "twx")
+  - [2583256](https://github.com/2583256 "yx")
 
 ## 如何分享
 

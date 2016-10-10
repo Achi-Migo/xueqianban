@@ -53,6 +53,7 @@ Powered by [Spring](https://github.com/zhaoda/spring) 并增加了显示评论�
 * [Markdown](https://guides.github.com/features/mastering-markdown/)
 * 专注于分享/写作
 * 利于沉淀
+* [自带全文搜索功能](https://help.github.com/articles/searching-issues/)
 
 ## 参考
 * [GitHub hosted comments for GitHub hosted blogs](http://ivanzuzak.info/2011/02/18/github-hosted-comments-for-github-hosted-blogs.html)

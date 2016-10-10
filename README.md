@@ -49,11 +49,11 @@ Powered by [Spring](https://github.com/zhaoda/spring) 并增加了显示评论�
 
 ## 为什么借用 GitHub Issues 平台
 
-* 超级轻量的多人博客平台
+* 超级轻量的多人博客平台, 只需要有一个 GitHub 帐号即可
 * [Markdown](https://guides.github.com/features/mastering-markdown/)
 * 专注于分享/写作
 * 利于沉淀
-* [自带全文搜索功能](https://help.github.com/articles/searching-issues/)
+* [全文搜索](https://help.github.com/articles/searching-issues/)
 
 ## 参考
 * [GitHub hosted comments for GitHub hosted blogs](http://ivanzuzak.info/2011/02/18/github-hosted-comments-for-github-hosted-blogs.html)

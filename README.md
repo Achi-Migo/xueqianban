@@ -22,7 +22,7 @@ Powered by [Spring](https://github.com/zhaoda/spring) 并增加了显示评论�
 
 尽量让门槛降到最低, 鼓励每个人都参与进来, 分享自己前端的所见所闻, 最好能附加自己的想法. 如果能形成一定主题的分享, 那自然是极好的.
 
-* 注册 [GitHub 帐号](https://github.com/join?source=header-home)
+* [注册 GitHub 帐号](https://github.com/join?source=header-home)
 * [分享见闻](https://github.com/f2e-journey/xueqianban/issues/new "新写一篇文章")
 * [学习分享过的内容](https://github.com/f2e-journey/xueqianban/issues)
 * 主题分享

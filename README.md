@@ -22,13 +22,16 @@ Powered by [Spring](https://github.com/zhaoda/spring) 并增加了显示评论�
 
 尽量让门槛降到最低, 鼓励每个人都参与进来, 分享自己前端的所见所闻, 最好能附加自己的想法. 如果能形成一定主题的分享, 那自然是极好的.
 
-* [GitHub 帐号](https://github.com/join?source=header-home)
-* [分享见闻](https://github.com/f2e-journey/xueqianban/issues/new)
+* 注册 [GitHub 帐号](https://github.com/join?source=header-home)
+* [分享见闻](https://github.com/f2e-journey/xueqianban/issues/new "新写一篇文章")
+* [学习分享过的内容](https://github.com/f2e-journey/xueqianban/issues)
 * 主题分享
 * Q&A - 工作中遇到的问题大家一起来解决
 * 博客 - 推荐大家都开始写博客
 
 ## 班集体
+
+如果你也对学习前端很感兴趣, 想加入我们的班集体, 请在[班会第 1 期](https://github.com/f2e-journey/xueqianban/issues/1)中留言, 我会把大家都列入进来.
 
 * 智云时代
   - [Sun](https://github.com/ufologist "sj")
@@ -39,6 +42,7 @@ Powered by [Spring](https://github.com/zhaoda/spring) 并增加了显示评论�
   - [px0078](https://github.com/px0078 "px")
   - [thomastangweixin](https://github.com/tangweixin "twx")
   - [2583256](https://github.com/2583256 "yx")
+* 期待你的加入
 
 ## 如何分享
 

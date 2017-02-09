@@ -66,6 +66,7 @@ Powered by [Spring](https://github.com/zhaoda/spring) 并增加了显示评论�
 * [wuhaoworld/github-issues-blog](https://github.com/wuhaoworld/github-issues-blog)
 * [使用github pages + issues + api建立个人博客](http://blog.csdn.net/ebay/article/details/44492009)
 * [Pure.css blog layout](http://purecss.io/layouts/blog/)
+* [Themes | Hexo](https://hexo.io/themes/)
 
 ## License
 

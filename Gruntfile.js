@@ -30,6 +30,7 @@ module.exports = function(grunt) {
 					'js/lib/template.js',
 					'js/lib/marked.js',
 					'js/lib/highlight.js',
+					'js/lib/medium-zoom.js',
 					'js/boot.js',
 					'js/pull2refresh.js',
 					'js/issuelist.js',

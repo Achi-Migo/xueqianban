@@ -57,6 +57,8 @@
 
   var commentsTplCompiled = template.compile(commentsTpl);
 
+  var mzoom;
+
   // XXX 将获取数据的逻辑提升到服务层
   function getIssueComments(number, callback) {
     var url = '/repos/' + spring.config.owner + '/' + spring.config.repo + '/issues/' + number + '/comments';
@@ -129,6 +131,11 @@
         issue = options.issue
 
     $target.html(renderContent(issue))
+
+    if (mzoom) {
+      mzoom.detach()
+    }
+    mzoom = mediumZoom('.issues img')
   })
 
   $doc.trigger('spa:route', pageLabels)

@@ -33,6 +33,8 @@ Powered by [Spring](https://github.com/zhaoda/spring) 并增加了显示评论�
 
 如果你也对学习前端很感兴趣, 想加入我们的班集体, 请在[班会第 1 期](https://github.com/f2e-journey/xueqianban/issues/1)中留言, 我会把大家都列入进来.
 
+如果你刚加入班集体, 觉得学前班的内容实在太多了, 有点不知所措, 请从[我的前端之旅](https://github.com/f2e-journey/f2e-journey)开始这场精彩的旅程.
+
 * 智云时代
   - [Sun](https://github.com/ufologist "sj")
   - [liuchuanfeng1](https://github.com/liuchuanfeng1 "gx") [:bouquet:](http://www.emoji-cheat-sheet.com/)
@@ -64,6 +66,7 @@ Powered by [Spring](https://github.com/zhaoda/spring) 并增加了显示评论�
 * [全文搜索](https://help.github.com/articles/searching-issues/)
 
 ## 参考
+
 * [GitHub hosted comments for GitHub hosted blogs](http://ivanzuzak.info/2011/02/18/github-hosted-comments-for-github-hosted-blogs.html)
 * [GitHub API | Comment Body Properties](https://developer.github.com/v3/media/#comment-body-properties)
 * [zhaoda/spring](https://github.com/zhaoda/spring)

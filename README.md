@@ -43,6 +43,8 @@ Powered by [Spring](https://github.com/zhaoda/spring) 并增加了显示评论�
   - [thomastangweixin](https://github.com/tangweixin "twx")
   - [2583256](https://github.com/2583256 "yx")
   - [maryzheng](https://github.com/maryzheng "zcm")
+* 拓维
+  - [tjby](https://github.com/tjby "ghy")
 * 期待你的加入
 
 ## 如何分享

@@ -42,6 +42,7 @@ Powered by [Spring](https://github.com/zhaoda/spring) 并增加了显示评论�
   - [px0078](https://github.com/px0078 "px")
   - [thomastangweixin](https://github.com/tangweixin "twx")
   - [2583256](https://github.com/2583256 "yx")
+* 微时代
   - [maryzheng](https://github.com/maryzheng "zcm")
 * 拓维
   - [tjby](https://github.com/tjby "ghy")

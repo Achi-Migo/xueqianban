@@ -49,7 +49,9 @@ Powered by [Spring](https://github.com/zhaoda/spring) 并增加了显示评论�
 * 拓维
   - [tjby](https://github.com/tjby "ghy")
 * 元创
-  - [JoeyHo817](https://github.com/joeyho817 "hzy")
+  - [joeyho817](https://github.com/joeyho817 "hzy")
+* 景观云
+  - [taricquan](https://github.com/taricquan "txq")
 * 期待你的加入
 
 ## 如何分享

@@ -53,6 +53,8 @@ Powered by [Spring](https://github.com/zhaoda/spring) 并增加了显示评论�
   - [joeyho817](https://github.com/joeyho817 "hzy")
 * 景观云
   - [taricquan](https://github.com/taricquan "txq")
+* 兽耳科技
+  - [Xialulu](https://github.com/Xialulu)
 * 期待你的加入
 
 ## 如何分享
